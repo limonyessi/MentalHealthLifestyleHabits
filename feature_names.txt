@@ -1,0 +1,34 @@
+Age
+Exercise Level
+Sleep Hours
+Stress Level
+Work Hours per Week
+Screen Time per Day (Hours)
+Social Interaction Score
+Country_Australia
+Country_Brazil
+Country_Canada
+Country_Germany
+Country_India
+Country_Japan
+Country_USA
+Gender_Female
+Gender_Male
+Gender_Other
+Diet Type_Balanced
+Diet Type_Junk Food
+Diet Type_Keto
+Diet Type_Vegan
+Diet Type_Vegetarian
+Mental Health Condition_Anxiety
+Mental Health Condition_Bipolar
+Mental Health Condition_Depression
+Mental Health Condition_PTSD
+Sleep_Quality
+Work_Life_Balance
+High_Screen_Time
+Age_Group_18-25
+Age_Group_26-35
+Age_Group_36-45
+Age_Group_46-55
+Age_Group_55+
